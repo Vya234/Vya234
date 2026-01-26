@@ -1,4 +1,4 @@
-# 💫 About Me:<br>🔭 **Currently working on:**  <br>Full-stack applications using React, Node.js, MongoDB and strengthening DSA in C++<br><br>👯 **Looking to collaborate on:**  <br>SDE-oriented projects, backend systems, APIs, and open-source contributions<br><br>🌱 **Currently learning:**  <br>Backend design, authentication & security, and scalable application patterns<br><br>💬 **Ask me about:**  <br>Data Structures & Algorithms, MERN stack, REST APIs, Git & deployment<br><br>⚡ **Fun fact:**  <br>I enjoy building end-to-end systems, from database design to clean UI 🚀<br>
+# 💫 About Me:<br>-> **Currently working on:**  <br>Full-stack applications using React, Node.js, MongoDB and strengthening DSA in C++<br><br>-> **Looking to collaborate on:**  <br>SDE-oriented projects, backend systems, APIs, and open-source contributions<br><br>-> **Currently learning:**  <br>Backend design, authentication & security, and scalable application patterns<br><br>-> **Ask me about:**  <br>Data Structures & Algorithms, MERN stack, REST APIs, Git & deployment<br><br>-> **Fun fact:**  <br>I enjoy building end-to-end systems, from database design to clean UI <br>
 
 
 ## 🌐 Socials:
