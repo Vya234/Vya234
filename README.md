@@ -40,7 +40,7 @@
 ---
 
 ## 📈 GitHub Activity
-![](https://nirzak-streak-stats.vercel.app/?user=Vya234&theme=dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vya234&theme=dark&hide_border=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
