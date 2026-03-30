@@ -13,7 +13,6 @@
 [![Email](https://img.shields.io/badge/Email-kavyarai2561%40gmail.com-red?logo=gmail)](mailto:kavyarai2561@gmail.com)
 
 ---
-
 ## 💻 Tech Stack:
 
 ### 🚀 Core
@@ -38,12 +37,8 @@
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 ---
-
 ## 📈 GitHub Activity
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vya234&theme=dark&hide_border=true)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Vya234&icon=0&color=0)](https://visitcount.itsvg.in)
