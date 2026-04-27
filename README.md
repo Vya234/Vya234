@@ -4,18 +4,19 @@ CSE @ IIT Kharagpur · Backend Systems · Real-time Applications · Reliable Sof
 
 ---
 
-## Selected Work
-
 **SyncSpace** · [repo](https://github.com/Vya234/SyncSpace)
 Real-time collaborative workspace with shared notes and live chat
+
 `WebSockets` `Socket.io` `Presence Tracking` `Debounced Persistence` `MongoDB`
 
 **DataSpeak** · [repo](https://github.com/Vya234/DataSpeak)
 Deterministic talk-to-data system for CSVs — no hallucinated numbers
+
 `Structured Query Pipeline` `Backend Computation Engine` `LLM for Explanation Only`
 
 **QuickPoll** · [repo](https://github.com/Vya234/Poll_Maker)
 Live polling platform with real-time vote aggregation
+
 `WebSockets` `JWT Auth` `Scalable Results System`
 
 ---
