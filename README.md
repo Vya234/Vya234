@@ -8,8 +8,6 @@ Interested in backend systems, real-time applications, and building reliable sof
 
 ## Projects
 
----
-
 **SyncSpace** · [repo](https://github.com/Vya234/SyncSpace)
 
 Real-time collaborative workspace with shared notes and chat.
