@@ -8,15 +8,21 @@ Interested in backend systems, real-time applications, and building reliable sof
 
 ## Projects
 
+---
+
 **SyncSpace** · [repo](https://github.com/Vya234/SyncSpace)
 
 Real-time collaborative workspace with shared notes and chat.
 Uses WebSockets for live sync, with presence tracking and debounced database writes to reduce load.
 
+---
+
 **DataSpeak** · [repo](https://github.com/Vya234/DataSpeak)
 
 A deterministic CSV "talk-to-data" system.
 All computations are handled in the backend. The LLM is used strictly for explanation, not calculation.
+
+---
 
 **QuickPoll** · [repo](https://github.com/Vya234/Poll_Maker)
 
