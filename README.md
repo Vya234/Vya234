@@ -46,5 +46,3 @@ MongoDB, MySQL
 [LinkedIn](https://linkedin.com/in/kavya--rai) · [kavyarai2561@gmail.com](mailto:kavyarai2561@gmail.com)
 
 ---
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vya234&theme=dark&hide_border=true&background=00000000&ring=888888&fire=888888&currStreakLabel=888888)
