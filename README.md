@@ -1,6 +1,7 @@
-# Hi, I'm Kavya Rai 
+# Hi, I'm Kavya Rai
 
-CSE @ IIT Kharagpur 
+CSE @ IIT Kharagpur
+
 Interested in backend systems, real-time applications, and building reliable software.
 
 ---
@@ -8,14 +9,17 @@ Interested in backend systems, real-time applications, and building reliable sof
 ## Projects
 
 **SyncSpace** · [repo](https://github.com/Vya234/SyncSpace)
+
 Real-time collaborative workspace with shared notes and chat.
 Uses WebSockets for live sync, with presence tracking and debounced database writes to reduce load.
 
 **DataSpeak** · [repo](https://github.com/Vya234/DataSpeak)
+
 A deterministic CSV "talk-to-data" system.
 All computations are handled in the backend. The LLM is used strictly for explanation, not calculation.
 
 **QuickPoll** · [repo](https://github.com/Vya234/Poll_Maker)
+
 Live polling platform with real-time vote aggregation.
 Built with WebSockets and JWT authentication, designed for consistent and scalable result updates.
 
@@ -32,11 +36,8 @@ MongoDB, MySQL
 
 ## Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kavya--rai-555?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/kavya--rai)
-[![Email](https://img.shields.io/badge/Email-kavyarai2561@gmail.com-555?logo=gmail&logoColor=white&style=flat-square)](mailto:kavyarai2561@gmail.com)
+[LinkedIn](https://linkedin.com/in/kavya--rai) · [kavyarai2561@gmail.com](mailto:kavyarai2561@gmail.com)
 
 ---
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vya234&theme=dark&hide_border=true&background=00000000&ring=888888&fire=888888&currStreakLabel=888888)
-
----
