@@ -28,8 +28,11 @@ Built with WebSockets and JWT authentication, designed for consistent and scalab
 ## Tech
 
 C++, JavaScript, Python
+
 Node.js, Express, WebSockets
+
 React, Tailwind
+
 MongoDB, MySQL
 
 ---
