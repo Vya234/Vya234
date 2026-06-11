@@ -1,48 +1,32 @@
-# Hi, I'm Kavya Rai
+# Hi, I'm Kavya Rai 
 
-CSE @ IIT Kharagpur
-
+**CSE @ IIT Kharagpur**
 Interested in backend systems, real-time applications, and building reliable software.
 
 ---
 
 ## Projects
 
-**SyncSpace** · [repo](https://github.com/Vya234/SyncSpace)
+**[OutbreakIQ](https://github.com/Vya234/OutbreakIQ)** · [Live Demo](https://outbreak-iq.vercel.app)
+> AI-powered GIS disease intelligence platform featuring real-time epidemiological analytics and a context-aware Gemma AI assistant.
 
-Real-time collaborative workspace with shared notes and chat.
-Uses WebSockets for live sync, with presence tracking and debounced database writes to reduce load.
+**[SyncSpace](https://github.com/Vya234/SyncSpace)** · [Live Demo](https://incandescent-fox-005f0f.netlify.app)
+> Real-time collaborative workspace utilizing WebSockets for live sync, presence tracking, and debounced database writes.
 
----
-
-**DataSpeak** · [repo](https://github.com/Vya234/DataSpeak)
-
-A deterministic CSV "talk-to-data" system.
-All computations are handled in the backend. The LLM is used strictly for explanation, not calculation.
+**[QuickPoll](https://github.com/Vya234/Poll_Maker)**
+> Live polling platform with WebSocket-based real-time vote aggregation and secure JWT authentication.
 
 ---
 
-**QuickPoll** · [repo](https://github.com/Vya234/Poll_Maker)
+## Tech Stack
 
-Live polling platform with real-time vote aggregation.
-Built with WebSockets and JWT authentication, designed for consistent and scalable result updates.
-
----
-
-## Tech
-
-C++, JavaScript, Python
-
-Node.js, Express, WebSockets
-
-React, Tailwind
-
-MongoDB, MySQL
+* **Languages:** C/C++, Python, JavaScript, TypeScript, SQL
+* **Backend & Data:** Node.js, Express, Socket.io, MongoDB, PostgreSQL
+* **Frontend:** React, Tailwind CSS, Leaflet, Recharts
+* **AI & Tools:** PyTorch, Gemma AI, Git, Linux
 
 ---
 
-## Links
+## Connect
 
-[LinkedIn](https://linkedin.com/in/kavya--rai) · [kavyarai2561@gmail.com](mailto:kavyarai2561@gmail.com)
-
----
+[LinkedIn](https://linkedin.com/in/kavya--rai) · [Email](mailto:kavyarai2561@gmail.com) · [Codeforces](https://codeforces.com/profile/ka04) · [LeetCode](https://leetcode.com/u/ka04)
