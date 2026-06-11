@@ -13,7 +13,7 @@ Interested in backend systems, real-time applications, and building reliable sof
 **[SyncSpace](https://github.com/Vya234/SyncSpace)** · [Live Demo](https://incandescent-fox-005f0f.netlify.app)
 > Real-time collaborative workspace utilizing WebSockets for live sync, presence tracking, and debounced database writes.
 
-**[QuickPoll](https://github.com/Vya234/Poll_Maker)**
+**[QuickPoll](https://github.com/Vya234/Poll_Maker)** · [Live Demo](https://quickpoll-smoky.vercel.app)
 > Live polling platform with WebSocket-based real-time vote aggregation and secure JWT authentication.
 
 ---
