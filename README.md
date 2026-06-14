@@ -29,4 +29,4 @@ Interested in backend systems, real-time applications, and building reliable sof
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/kavya--rai) · [Email](mailto:kavyarai2561@gmail.com) · [Codeforces](https://codeforces.com/profile/ka04) · [LeetCode](https://leetcode.com/u/ka04)
+[LinkedIn](https://linkedin.com/in/kavya--rai) · [Email](mailto:kavyarai2561@gmail.com) · [LeetCode](https://leetcode.com/u/ka04)
