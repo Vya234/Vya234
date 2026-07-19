@@ -1,7 +1,7 @@
 # Hi, I'm Kavya Rai 
 
 **CSE @ IIT Kharagpur**
-Interested in backend systems, real-time applications, and building reliable software.
+Interested in backend systems, AI-powered applications, and building reliable software.
 
 ---
 
@@ -29,4 +29,8 @@ Interested in backend systems, real-time applications, and building reliable sof
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/kavya--rai) · [Email](mailto:kavyarai2561@gmail.com) · [LeetCode](https://leetcode.com/u/ka04)
+[Portfolio](https://kavyarai.vercel.app) ·
+[LinkedIn](https://linkedin.com/in/kavya--rai) ·
+[LeetCode](https://leetcode.com/u/ka04) ·
+[Codeforces](https://codeforces.com/profile/ka04) ·
+[Email](mailto:kavyarai2561@gmail.com)
